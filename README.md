@@ -8,4 +8,5 @@ Basic Overview:
 
 moveToArchives.py   - moves all files that are older than M months to an Archive directory and removes the files from the current directory.
 
-removeDuplicates.py - removes all files that exist in the active directory only if they exist in the archive directory.
+removeDuplicates.py - removes all files that exist in the active directory only if they exist in the archive directory. With exception of .sfprime hidden files.
+
