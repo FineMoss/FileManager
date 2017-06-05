@@ -13,10 +13,6 @@
 # For mac/linux run the command
 # python moveToArchives.py <currentPath> <targetPath> <M>
 
-# For Tricore host14 navigate to the C drive and run the command
-# Python27/python moveToArchives.py ShareFile\CLIENTS Sharefile_Archives <M>
-# Where <M> is typically 18
-
 
 import sys
 import os
