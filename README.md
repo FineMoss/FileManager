@@ -10,4 +10,4 @@ moveToArchives.py   - Moves all files that are older than M months to an Archive
 
 removeDuplicates.py - Removes all files that exist in the active directory only if they exist in the archive directory. With exception of .sfprime hidden files.
 
-countFolders.py     - Generates an output.csv file. The first entry in each row is a directory in the TargetFilePath. The second entry, if there is one, says if that folder is empty with the string 'empty'
+countFolders.py     - Generates an output.csv file. The first entry in each row is a directory in the TargetFilePath. The second entry, if there is one, says if that folder is empty with the string 'empty'.
